@@ -1,0 +1,11 @@
+<!Doctype html>
+<html>
+</head>
+<title>registraton form</tile>
+</head>
+<h1>resistration form</h1>
+<label="name"<br>name</br>
+<input type="text" placeholder="name"id="name" required>
+</body>
+</html>
+
