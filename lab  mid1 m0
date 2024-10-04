@@ -1,1 +1,10 @@
-
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>registraton form</title>
+</head>
+<body>
+<laber="name><br>name</br></label>
+<input type="text" placeholder="name" name="enter name" id="name" reguirewd>
+</body>
+</html>
